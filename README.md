@@ -8,11 +8,11 @@ Zombie Waves: Brace yourself for increasingly challenging waves of zombies, each
 
 ![SAVER](https://github.com/abhitechgames/Hall-Saver/assets/59042408/d50f32bd-e346-48de-bb3b-c4089605e945)
 
-#Key Features:
+# Key Features:
 Strategic Planning: "Hall Saver" rewards careful planning and strategic thinking. You must strategically place your defenses to create kill zones, slow down the zombie horde, and maximize your firepower.
 Dynamic Environments: Fight against the zombie invasion in a variety of environments, from eerie graveyards to abandoned urban streets. Each location presents unique challenges and opportunities for clever tactics.
 Endless Challenge: Test your skills in an endless survival mode, where the waves of zombies become progressively more difficult. How long can you hold off the horde?
-#Note:
+# Note:
 This game is made for SonderingEmily x Juliestrator Jam (48 Hours Game Jam), Unfortunately, I'm not able to complete it before the deadline due to some fu*king eye allergy that just happened on the final day of the jam (Day 2).
 I made it an Open-Source Project, You can find it on my GitHub profile: https://github.com/abhitechgames, (since it is a game jam project there are a lot of bugs and crap code)
 
